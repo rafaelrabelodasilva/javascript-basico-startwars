@@ -35,7 +35,7 @@ const LIST = [
         avatar: 'images/r2d2.png'
     },
     {
-        id: 7,
+        id: 8,
         nome: 'C3pO',
         avatar: 'images/c3po.png'
     }
