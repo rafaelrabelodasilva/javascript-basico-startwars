@@ -27,4 +27,6 @@ Neste curso aprendemos sobre JavaScript, HTML e CSS. Trabalhamos com variáveis,
 
 ## Exibindo o projeto
 
+Na aplicação o usuário poderá dar like, excluir e buscar por um personagem específico através do filtro de busca:
+
 ![gif](./images/exibindo_projeto_javascript_para_qas.gif "Exibindo o projeto finalizado")
