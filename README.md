@@ -1,9 +1,9 @@
-# O curso ✨
+# O projeto ✨
 
 Este projeto foi desenvolvido no curso **Javascript para QAs** ministrado pelo **Fernando Papito**.<br>
 Neste curso aprendemos sobre JavaScript, HTML e CSS. Trabalhamos com variáveis, constantes, funções, arrays, objetos, loops, operadores e controle de fluxo utilizando o framework Vue.js.
 
-## Conteúdo do Curso
+## Conteúdo do Curso 📚
 
 * Introdução ao JavaScript
 * HTML
@@ -25,7 +25,7 @@ Neste curso aprendemos sobre JavaScript, HTML e CSS. Trabalhamos com variáveis,
 * Google Icons
 * Google Fonts
 
-## Exibindo o projeto
+## Exibindo o projeto 🧙‍♂️
 
 Na aplicação o usuário poderá dar like, excluir e buscar por um personagem específico através do filtro de busca:
 
